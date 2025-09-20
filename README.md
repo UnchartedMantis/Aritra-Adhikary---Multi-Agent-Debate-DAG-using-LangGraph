@@ -20,4 +20,4 @@ It supports **pluggable LLM adapters**, automated logging, diagram generation, a
 - **Visualization**: Generates DAG diagram in DOT, PNG, SVG, and PDF.  
 - **Demo Output**: Transcript logs, GIF, MP4 video, captioned video.  
 - **CI/CD**: GitHub Actions workflow runs the demo and uploads artifacts. 
-## 📂 Project Structure
+
