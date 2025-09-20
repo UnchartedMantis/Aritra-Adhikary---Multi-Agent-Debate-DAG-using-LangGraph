@@ -7,7 +7,7 @@ It supports **pluggable LLM adapters**, automated logging, diagram generation, a
 
 ---
 
-## 🚀 Features
+## Features
 - **Multi-Agent Debate**:  
   - Scientist (risk & safety focused)  
   - Philosopher (ethics & autonomy focused)  
